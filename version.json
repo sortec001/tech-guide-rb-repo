@@ -1,6 +1,6 @@
 ﻿{
   "Name": "TechGuide",
   "Version": "2026.0806.0002.00",
-  "Changelog": "对齐团辅 + 自动更新",
+  "Changelog": "手动检查更新；下载直连不走代理；对齐团辅",
   "DownloadUrl": "https://github.com/sortec001/tech-guide-rb-repo/raw/main/release/TechGuide/latest.zip"
 }
