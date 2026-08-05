@@ -12,7 +12,7 @@ RebornBuddy 版「技术攻略」编译产物分发仓库。
 
 打开职业/基础设置 → **「检查更新」**：从本仓库拉取 `version.json`，如有新版本则下载 `release/TechGuide/latest.zip` 覆盖本地 DLL。
 
-下载需可访问 GitHub（建议本地代理 `127.0.0.1:7897`）。更新后请**重选战斗循环或重启 RebornBuddy** 生效。
+下载直连 GitHub（不走代理）。在基础设置点「检查更新」。更新后请**重选战斗循环或重启 RebornBuddy** 生效。
 
 ## 仓库内容
 
