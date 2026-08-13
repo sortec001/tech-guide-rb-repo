@@ -1,6 +1,6 @@
 ﻿{
   "Name": "TechGuide",
-  "Version": "2026.0806.0003.00",
-  "Changelog": "Discord 验证改用 PKCE（不携带 Client Secret）；更新超时放宽与多源回退；日志不输出完整 URL",
+  "Version": "2026.0813.0001.00",
+  "Changelog": "小窗新增负面停手；热病全程 / 加速度炸弹等到期≤3s 自动停技能并关自动攻击",
   "DownloadUrl": "https://cdn.jsdelivr.net/gh/sortec001/tech-guide-rb-repo@main/release/TechGuide/latest.zip"
 }
