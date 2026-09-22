@@ -1,6 +1,6 @@
 ﻿{
   "Name": "TechGuide",
-  "Version": "2026.0813.0001.00",
-  "Changelog": "小窗新增负面停手；热病全程 / 加速度炸弹等到期≤3s 自动停技能并关自动攻击",
+  "Version": "2026.0923.0001.00",
+  "Changelog": "负面停手补绝妖星P4动静剑（加速度炸弹5546）及4144",
   "DownloadUrl": "https://cdn.jsdelivr.net/gh/sortec001/tech-guide-rb-repo@main/release/TechGuide/latest.zip"
 }
